@@ -19,4 +19,16 @@ The following R packages are required:
 - `dplyr`
 - `rms`
 
+## Data Loading
+
+The code uses two datasets:
+
+- **uromol_data**: The training dataset.
+- **knowles_data**: The test dataset.
+
+Update the file paths below to match the locations on your system:
+
+```r
+uromol_data  <- readRDS("/projects/rli_prj/Courses/BIOF520/UROMOL_TaLG.teachingcohort.rds")
+knowles_data <- readRDS("/projects/rli_prj/Courses/BIOF520/knowles_matched_TaLG_final.rds")
 
