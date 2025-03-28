@@ -1,8 +1,8 @@
 # BIOF520_A4
 
-# Survival Analysis Demo in R
+## Survival Analysis in R
 
-This repository contains demo code for performing survival analysis using the Cox proportional hazards model and LASSO Cox model. It demonstrates how to:
+This repository contains code for performing survival analysis using the Cox proportional hazards model. It demonstrates how to:
 - Fit a standard Cox model.
 - Predict risk scores on a new dataset.
 - Evaluate model performance using the concordance index (C-index) and AUROC.
