@@ -10,6 +10,7 @@ This repository contains code for performing survival analysis using the Cox pro
 - Handle common data issues such as missing values and factor level mismatches.
 
 ## Requirements
+The code is written in an `.ipynb` file so we need an iRkernel to run it. 
 
 The following R packages are required:
 - `survival`
