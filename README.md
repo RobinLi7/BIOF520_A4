@@ -19,7 +19,4 @@ The following R packages are required:
 - `dplyr`
 - `rms`
 
-You can install these packages using:
 
-```r
-install.packages(c("survival", "glmnet", "survminer", "pROC"))
